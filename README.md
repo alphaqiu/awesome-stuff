@@ -2,7 +2,7 @@
 
 收集和整理GitHub上面出现过的Awesome 清单。
 
-
+## 各种 Awesome 合集
 
 **Description：**  😎 Awesome lists about all kinds of interesting topics
 
@@ -76,3 +76,16 @@
 
 
 
+## 有趣的仓库
+
+**Description：** 免费书籍汇总（包括：Web开发，系统管理，编程语言，数据库，软件开发，人工智能，数学理论，其他）
+
+**Star** ✨ 11K
+
+**Link：**  https://github.com/lTbgykio/Books-Free-Books
+
+**Description：** （动态大屏模版）100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
+
+**Star** ✨ 3.4K
+
+**Link：**  https://github.com/iGaoWei/BigDataView
