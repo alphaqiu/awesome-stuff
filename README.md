@@ -4,7 +4,7 @@
 
 
 
-**Description：** 😎 Awesome lists about all kinds of interesting topics
+**Description：**  😎 Awesome lists about all kinds of interesting topics
 
 **Star** ✨ 341K 
 
@@ -12,7 +12,7 @@
 
 
 
-**Description：**An opinionated list of awesome Python frameworks, libraries, software and resources.
+**Description：** An opinionated list of awesome Python frameworks, libraries, software and resources.
 
 **Star** ✨ 230K
 
@@ -20,7 +20,7 @@
 
 
 
-**Description：**📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+**Description：** 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 **Star** ✨ 13.9K
 
@@ -28,7 +28,7 @@
 
 
 
-**Description：**A curated list of awesome remote jobs and resources.
+**Description：** A curated list of awesome remote jobs and resources.
 
 **Star** ✨ 36.1K
 
@@ -36,7 +36,7 @@
 
 
 
-**Description：**Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
+**Description：** Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 
 **Star** ✨ 4.3K
 
@@ -44,7 +44,7 @@
 
 
 
-**Description：**如果有人让你推荐前端技术书，请让他看这个列表
+**Description：** 如果有人让你推荐前端技术书，请让他看这个列表
 
 **Star**  ✨ 1.6K
 
@@ -52,7 +52,7 @@
 
 
 
-**Description：**网络安全类公众号推荐，欢迎大家推荐
+**Description：** 网络安全类公众号推荐，欢迎大家推荐
 
 **Star** ✨ 2K
 
@@ -60,7 +60,7 @@
 
 
 
-**Description：**经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+**Description：** 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 
 **Star** ✨ 22.7K
 
@@ -68,7 +68,7 @@
 
 
 
-**Description：**📄 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 [@hoochanlon](https://github.com/hoochanlon) 维护
+**Description：** 📄 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 [@hoochanlon](https://github.com/hoochanlon) 维护
 
 **Star** ✨ 4.8K
 
