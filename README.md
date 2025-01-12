@@ -16,7 +16,7 @@
 
 **Star** ✨ 230K
 
-**Link：**https://github.com/vinta/awesome-python
+**Link：** https://github.com/vinta/awesome-python
 
 
 
@@ -24,7 +24,7 @@
 
 **Star** ✨ 13.9K
 
-**Link：**https://github.com/thibmaek/awesome-raspberry-pi
+**Link：** https://github.com/thibmaek/awesome-raspberry-pi
 
 
 
@@ -32,7 +32,7 @@
 
 **Star** ✨ 36.1K
 
-**Link：**https://github.com/lukasz-madon/awesome-remote-job
+**Link：** https://github.com/lukasz-madon/awesome-remote-job
 
 
 
@@ -40,7 +40,7 @@
 
 **Star** ✨ 4.3K
 
-**Link：**https://github.com/ipfs/awesome-ipfs
+**Link：** https://github.com/ipfs/awesome-ipfs
 
 
 
@@ -48,7 +48,7 @@
 
 **Star**  ✨ 1.6K
 
-**Link：**https://github.com/jobbole/awesome-web-dev-books
+**Link：** https://github.com/jobbole/awesome-web-dev-books
 
 
 
@@ -56,7 +56,7 @@
 
 **Star** ✨ 2K
 
-**Link：**https://github.com/DropsOfZut/awesome-security-weixin-official-accounts
+**Link：** https://github.com/DropsOfZut/awesome-security-weixin-official-accounts
 
 
 
@@ -64,7 +64,7 @@
 
 **Star** ✨ 22.7K
 
-**Link：**https://github.com/hehonghui/awesome-english-ebooks
+**Link：** https://github.com/hehonghui/awesome-english-ebooks
 
 
 
@@ -72,7 +72,7 @@
 
 **Star** ✨ 4.8K
 
-**Link：**https://github.com/dyweb/awesome-resume-for-chinese
+**Link：** https://github.com/dyweb/awesome-resume-for-chinese
 
 
 
