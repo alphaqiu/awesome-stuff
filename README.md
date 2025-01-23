@@ -20,6 +20,14 @@
 
 
 
+**Description**:  This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+
+**Star** ✨ 118K
+
+**Link**:  https://github.com/f/awesome-chatgpt-prompts
+
+
+
 **Description：** 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
 **Star** ✨ 13.9K
