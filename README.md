@@ -4,6 +4,14 @@
 
 ## 各种 Awesome 合集
 
+**Description: ** 程序员做饭指南
+
+**Star** 72.1K
+
+**Link** : https://github.com/Anduin2017/HowToCook
+
+
+
 **Description：**  😎 Awesome lists about all kinds of interesting topics
 
 **Star** ✨ 341K 
