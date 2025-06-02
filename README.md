@@ -4,6 +4,14 @@
 
 ## 各种 Awesome 合集
 
+Description: freeCodeCamp.org 的开放源代码库和课程。免费学习数学、编程和计算机科学。
+
+Star: 420K
+
+Link: https://github.com/freeCodeCamp/freeCodeCamp
+
+
+
 **Description**: 大语言模型科普
 
 **Star** 2.3K
