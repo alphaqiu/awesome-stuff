@@ -4,6 +4,14 @@
 
 ## 各种 Awesome 合集
 
+**Description**: 大语言模型科普
+
+**Star** 2.3K
+
+**Link**: https://github.com/karminski/one-small-step
+
+
+
 **Description: ** 程序员做饭指南
 
 **Star** 72.1K
