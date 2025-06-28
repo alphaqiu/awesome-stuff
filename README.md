@@ -4,11 +4,19 @@
 
 ## 各种 Awesome 合集
 
-Description: freeCodeCamp.org 的开放源代码库和课程。免费学习数学、编程和计算机科学。
+Description: cursor 规则集合
 
-Star: 420K
+Star: 29.3K
 
-Link: https://github.com/freeCodeCamp/freeCodeCamp
+https://github.com/patrickjs/awesome-cursorrules
+
+
+
+**Description**: freeCodeCamp.org 的开放源代码库和课程。免费学习数学、编程和计算机科学。
+
+**Star**: 420K
+
+**Link**: https://github.com/freeCodeCamp/freeCodeCamp
 
 
 
